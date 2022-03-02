@@ -3,7 +3,7 @@ import Reducer from './Reducer'
 
 
 const initialState = {
-    base: "http://devil007.pythonanywhere.com",
+    base: "https://devil007.pythonanywhere.com",
     query: "",
     pages: {}
 };
